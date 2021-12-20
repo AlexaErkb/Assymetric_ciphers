@@ -11,3 +11,4 @@
 ![image](https://user-images.githubusercontent.com/70998859/146784586-44ab71c4-0096-43c8-877c-69d9bd9828d8.png)  
 ![image](https://user-images.githubusercontent.com/70998859/146784611-40977846-b04b-4bb6-bf61-f3fbda25b159.png)  
 Модифицируйте код FTP-сервера таким образом, чтобы он поддерживал шифрование.  
+![image](https://user-images.githubusercontent.com/70998859/146785401-ad8f1cea-64be-4401-80e1-d48f8c5bf91a.png)  
